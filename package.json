@@ -2,7 +2,7 @@
   "name": "ts2-consumer",
   "version": "0.0.1",
   "description": "Example TypeScript 2.0 node module consumer",
-  "main": "lib/index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "clean": "rimraf ./lib",
     "lint": "tslint src/**/*.ts",
