@@ -31,5 +31,8 @@
     "tslint": "^3.15.1",
     "tslint-config-standard": "^1.5.0",
     "typescript": "^2.0.3"
+  },
+  "dependencies": {
+    "ts2-example": "0.0.1"
   }
 }
