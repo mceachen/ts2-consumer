@@ -1,4 +1,4 @@
-# ts2-npm-consumer
+# ts2-consumer
 
 Simple example for consuming a node package, [ts2-example](https://www.npmjs.com/package/ts2-example) with
 
